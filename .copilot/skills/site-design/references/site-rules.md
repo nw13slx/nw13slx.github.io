@@ -12,6 +12,6 @@ git push --force origin main
 
 ## Content
 
-- Everything on one page: profile, timeline, research, blog.
+- Everything on one page: profile, timeline, research.
 - LinkedIn only for contact. No email on the site.
-- For any content writing or rewriting, invoke the `polish-informal` skill.
+- For prose longer than one line (an intro paragraph, a new section), invoke the `polish-informal` skill. A single line on the page goes through the cold read in SKILL.md Step 4 instead.
